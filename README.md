@@ -46,5 +46,5 @@ for v in range(1,5):
 > > > Вложенная цитата (уровень 3)
 # Картинка
 ![Картинка](https://klike.net/uploads/posts/2019-05/1556708032_1.jpg)
-# For mor info
+# For more info
 For more information, see the [calculator file](calculator.md).
