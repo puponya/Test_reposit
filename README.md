@@ -47,4 +47,4 @@ for v in range(1,5):
 # Картинка
 ![Картинка](https://klike.net/uploads/posts/2019-05/1556708032_1.jpg)
 # For mor info
-For more information, see the [calculator file](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
+For more information, see the [calculator file](calculator.md).
