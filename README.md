@@ -46,3 +46,5 @@ for v in range(1,5):
 > > > Вложенная цитата (уровень 3)
 # Картинка
 ![Картинка](https://klike.net/uploads/posts/2019-05/1556708032_1.jpg)
+# For mor info
+For more information, see the [calculator file](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
